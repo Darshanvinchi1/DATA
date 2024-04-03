@@ -1,0 +1,6 @@
+POSTGRES_HOST=db-postgresql-blr1-97346-do-user-13088414-0.c.db.ondigitalocean.com
+POSTGRES_PORT=25060
+POSTGRES_USER=doadmin
+POSTGRES_PASSWORD=AVNS_Nr7_wtdSY8DBiSq1hQk
+POSTGRES_DB=hind_money_db
+POSTGRES_NAV_DB=hind_money_nav_db
